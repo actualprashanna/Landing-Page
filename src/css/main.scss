@@ -230,7 +230,6 @@ header {
             width: 250px;
             height: 250px;
             padding: 30px;
-            
         }
         p {
             color: $light;
@@ -243,8 +242,7 @@ header {
                 font-weight: 700;
             }
             @media screen and (max-width: 768px) {
-               font-size: 12px;
-                
+                font-size: 12px;
             }
         }
         .bubble {
